@@ -1,0 +1,114 @@
+#section_six {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333;
+	line-height: 18px
+}
+
+#section_six #content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -240px 0 0 -450px;
+	width: 900px;
+	height: 600px
+}
+
+#section_six .legend {
+	float: left;
+	width: 250px;
+	margin-top: 140px
+}
+
+#section_six #content h1 {
+	font-family: 'Cabin Sketch', arial, serif;
+	color: #fff;
+	font-size: 22px;
+	margin-bottom: 40px;
+	text-align: right
+}
+
+#section_six .skills {
+	float: left;
+	clear: both;
+	width: 100%
+}
+
+#section_six .skills ul,
+#section_six .skills li {
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0
+}
+
+#section_six .skills li {
+	font-family: "å¾®è½¯é›…é»‘";
+	float: right;
+	clear: both;
+	padding: 0 15px;
+	height: 35px;
+	line-height: 35px;
+	color: #000;
+	margin-bottom: 1px;
+	font-size: 18px
+}
+
+#section_six .skills .jq {
+	background: #fff
+}
+
+#section_six .skills .css {
+	background: #cac8c9
+}
+
+#section_six .skills .html {
+	background: #969494
+}
+
+#section_six .skills .php {
+	background: #595858
+}
+
+#section_six .skills .sql {
+	background: #313131
+}
+
+#section_six .footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background: #2d2d2d;
+	color: #eaeaea;
+	padding: 20px 0
+}
+
+#section_six .footer a {
+	color: #eaeaea
+}
+
+#section_six .footer a:hover {
+	color: #e4842c
+}
+
+#section_six .footer .inside {
+	font-family: 'Cabin Sketch', arial, serif;
+	font-size: 22px;
+	text-align: center
+}
+
+#section_six #diagram {
+	float: right;
+	width: 600px;
+	height: 600px
+}
+
+#section_six .get {
+	display: none
+}
+
+a {
+	text-decoration: none;
+	color: #333
+}

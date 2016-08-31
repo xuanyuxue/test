@@ -1,0 +1,40 @@
+#section_seven .two_mici {
+	width: 700px;
+	height: 350px;
+	margin: 80px auto 50px
+}
+
+#section_seven .two_mici img:nth-of-type(1) {
+	display: block;
+	float: left;
+	margin-right: 100px
+}
+
+#section_seven p {
+	font-family: "å¾®è½¯é›…é»‘";
+	font-size: 17px;
+	color: #fff;
+	width: 900px;
+	text-align: center;
+	margin: 0 auto
+}
+
+#section_seven h1 {
+	font-family: "å¾®è½¯é›…é»‘";
+	font-size: 35px;
+	color: #fff;
+	text-align: center;
+	margin-top: -10PX
+}
+
+#section_seven a {
+	display: block;
+	height: 20px;
+	line-height: 20px;
+	font-family: "å¾®è½¯é›…é»‘";
+	font-size: 10px;
+	color: #fff;
+	width: 900px;
+	text-align: center;
+	margin: 0 auto
+}

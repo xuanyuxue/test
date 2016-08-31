@@ -1,0 +1,79 @@
+#section_four .kongbai {
+	height: 10%
+}
+
+#section_four h1 {
+	height: 10%;
+	text-align: center;
+	font-family: "å¾®è½¯é›…é»‘";
+	font-size: 30px;
+	color: #fff
+}
+
+#section_four ul {
+	position: relative;
+	height: 80%;
+	width: 70%;
+	margin: 0 auto
+}
+
+#section_four ul .nav_scoll {
+	background-color: #000;
+	position: relative;
+	z-index: 2;
+	margin-left: 100PX;
+	text-align: center;
+	line-height: 50px;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	border: 4px solid #fff;
+	color: #fff;
+	font-family: "å¾®è½¯é›…é»‘"
+}
+
+#section_four ul .list {
+	position: relative;
+	z-index: 2;
+	height: 17%
+}
+
+#section_four ul .list_after {
+	height: 10%
+}
+
+#section_four ul .list span {
+	border-radius: 50%;
+	margin: 5px 40px 0 20px;
+	display: block;
+	width: 10px;
+	height: 10px;
+	border: 1px solid #fff;
+	float: left;
+	background-color: #000
+}
+
+#section_four ul .list h6 {
+	color: #fff;
+	font-size: 20px;
+	float: left;
+	display: block
+}
+
+#section_four ul .list p {
+	width: 70%;
+	overflow-wrap: break-word;
+	float: left;
+	font-size: 20px;
+	color: #fff
+}
+
+#section_four ul .hen_line {
+	height: 90%;
+	width: 2px;
+	background-color: #f0efee;
+	position: absolute;
+	top: 0;
+	left: 124px;
+	z-index: -1
+}
